@@ -9,8 +9,6 @@ I enjoy building practical applications using AI, Machine Learning, Web Developm
 **Programming Languages**
 
 * Python
-* Java
-* JavaScript
 * SQL
 * C
 
@@ -27,10 +25,7 @@ I enjoy building practical applications using AI, Machine Learning, Web Developm
 
 * HTML
 * CSS
-* JavaScript
 * React
-* Node.js
-* Express.js
 
 **Database & Tools**
 
@@ -56,7 +51,7 @@ Collection of ML projects involving prediction, classification, and data analysi
 
 ## 🌱 Currently Learning
 
-* Advanced Machine Learning
+*  Machine Learning
 * Large Language Models (LLMs)
 * System Design
 * Cloud Technologies
